@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khawos
 - 👀 I’m interested in bash and low-level language
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C++
 - 📫 How to reach me: adammdn92@gmail.com
 - ⚡ Fun fact: i love lasagna :)
