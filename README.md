@@ -1,12 +1,7 @@
 # Adam Medeneche  
 ### Développeur C – Programmation bas niveau (Linux / POSIX)
-
-Étudiant à l’école 42 (Paris), spécialisé en **programmation C bas niveau**, avec un fort accent sur la **robustesse**, la **gestion mémoire** et le **debugging**.  
-Habitué à travailler sur des projets complexes proches du système, inspirés de problématiques réelles du monde professionnel.
----
-
+Étudiant à l’école 42 (Paris), spécialisé en **programmation C bas niveau**
 ## Compétences techniques
-
 ### Langage & bas niveau
 - C (norme POSIX)
 - Gestion mémoire manuelle
